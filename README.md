@@ -1,3 +1,4 @@
+Are you working on the BuildingBloCS website? Please go to buildingblocs/site instead, this repo is to archive 2023's website :)
 # BuildingBloCS Newest Website
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more about how to maintain this site.
