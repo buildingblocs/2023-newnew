@@ -15,6 +15,7 @@ export default defineNuxtConfig({
       ],
     },
     pageTransition: { name: 'page', mode: 'out-in' },
+    baseURL: '/2023-newnew'
   },
   colorMode: {
     fallback: 'dark',
@@ -35,5 +36,8 @@ export default defineNuxtConfig({
   gtag: {
     id: 'G-T8KMF4KWHB'
   },
-  plugins: [{ src: '~/plugins/vercel.ts', mode: 'client' }]
+  plugins: [{ src: '~/plugins/vercel.ts', mode: 'client' }],
+  site: {
+    url: 'https://old.buildingblocs.sg/2023-newnew',
+  },
 })
